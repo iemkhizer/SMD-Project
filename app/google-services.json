@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "58715979160",
+    "project_id": "projectlastitis",
+    "storage_bucket": "projectlastitis.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58715979160:android:2d19269d31540f1b8f7fed",
+        "android_client_info": {
+          "package_name": "com.example.ProjectLasr"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvuubdfM1G1RSV_bjtLTVrLAzwvsxp9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:58715979160:android:17ff6c5cd92c87d68f7fed",
+        "android_client_info": {
+          "package_name": "com.example.natterchatapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAvvuubdfM1G1RSV_bjtLTVrLAzwvsxp9I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
